@@ -1,0 +1,21 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+header {
+  min-height: 40vh;
+}
+
+#avatar {
+  display: block;
+  margin: auto;
+  max-height: 30vh;
+  border-radius: 50%;
+}
+
+.card {
+  min-height: 45vh;
+}
